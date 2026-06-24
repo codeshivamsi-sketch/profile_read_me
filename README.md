@@ -20,7 +20,7 @@ Engineering Manager & Full-Stack Engineer — 7+ years at startups, hands-on cod
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Backend
-**[CreditCore](https://github.com/codeshivamsi-sketch/credit_core)** — A hands-on refresher on backend engineering — async APIs, microservices, event-driven architecture, and observability, built around a trivial lending domain. Includes Prometheus + Grafana with per-endpoint request rate and p90 latency dashboards.
+**[CreditCore](https://github.com/codeshivamsi-sketch/credit_core)** — A minimal project to refresh hands-on familiarity with backend infrastructure: async APIs, microservices, event driven architecture, observability, and containerisation, built around a trivial lending domain. Each technology is wired in just enough to work; none are used in depth.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)

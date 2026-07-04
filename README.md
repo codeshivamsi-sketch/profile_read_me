@@ -3,9 +3,9 @@ Engineering Manager & Full-Stack Engineer — 7+ years at startups, hands-on cod
 
 ---
 
-## Projects
+## Work
 
-### GenAI
+### Agentic AI 
 **[Study Assistant AI](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,7 +32,7 @@ Engineering Manager & Full-Stack Engineer — 7+ years at startups, hands-on cod
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Learning
+### Language
 **[Python Concepts — Refresher](https://github.com/your-repo-link)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers 53 concepts across 10 groups — from core syntax to async patterns and library integrations like Pydantic, SQLAlchemy, and FastAPI.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)

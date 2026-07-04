@@ -33,7 +33,7 @@ Engineering Manager & Full-Stack Engineer — 7+ years at startups, hands-on cod
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Language
-**[Python Concepts — Refresher]([https://github.com/codeshivamsi-sketch/python_concept_refresher)])** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
+**[Python Concepts — Refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 

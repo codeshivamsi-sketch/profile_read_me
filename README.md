@@ -1,5 +1,5 @@
 # Hi, I'm Shivam
-Engineering Manager (Frontend) — 7+ years at startups, hands-on coding throughout.
+Engineering Manager (Frontend) — 7+ years at startups. I build personal projects for hands-on familiarity with different tech stacks, for a better understanding of them. Reference these repos of mine to learn or get started with these stacks.
 
 ---
 

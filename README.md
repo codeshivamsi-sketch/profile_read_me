@@ -1,5 +1,5 @@
 # Hi, I'm Shivam
-Engineering Manager & Full-Stack Engineer — 7+ years at startups, hands-on coding throughout.
+Engineering Manager (Frontend) — 7+ years at startups, hands-on coding throughout.
 
 ---
 

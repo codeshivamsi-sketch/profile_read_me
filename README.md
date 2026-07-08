@@ -1,5 +1,5 @@
 # Hi, I'm Shivam
-Engineering Manager (Frontend expertise) — 7+ years at startups. I build personal projects here to gain hands-on familiarity with different tech stacks (backend, agentic AI, etc.) for a better understanding of them. Reference these repos of mine to learn or get started with these stacks.
+Engineering Manager (Frontend expertise) — 7+ years at startups. I build personal projects here to gain hands-on familiarity with different tech stacks (backend, agentic AI, etc.) for a better understanding of them.
 
 ---
 

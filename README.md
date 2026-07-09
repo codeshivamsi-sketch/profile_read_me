@@ -1,5 +1,6 @@
 # Hi, I'm Shivam
-I'm an Engineering Manager with 7+ years of experience, specializing in frontend. Beyond my core expertise, I build personal projects to get hands-on with other parts of the stack — backend, agentic AI, and beyond — to understand them well enough to build with and lead across them.
+
+Frontend-heavy Engineering Manager with 7+ years of experience, staying hands-on and sharpening my fundamentals along the way.
 
 ---
 

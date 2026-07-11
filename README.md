@@ -1,6 +1,6 @@
 # Hi, I'm Shivam
 
-Frontend-heavy Engineering Manager with 7+ years of experience, staying hands-on and sharpening my fundamentals along the way.
+I write code to keep experimenting & to keep my fundamentals fresh.
 
 
 ## Work

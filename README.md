@@ -5,7 +5,7 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 ---
 
 ### Agentic AI 
-**[Study assistant](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
+**[Study assistant AI](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)

@@ -18,6 +18,8 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 ![RAGAs](https://img.shields.io/badge/RAGAs-Evaluation-6C3483?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
 
+---
+
 ### Backend
 **[Backend in python — refresher](https://github.com/codeshivamsi-sketch/credit_core)** — A minimal project to refresh hands-on familiarity with backend infrastructure in python: async APIs, microservices, event driven architecture, observability, and containerisation, built around a trivial lending domain. Each technology is wired in just enough to work; none are used in depth.
 
@@ -30,6 +32,8 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
 
 ### Language
 **[Python concepts — refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.

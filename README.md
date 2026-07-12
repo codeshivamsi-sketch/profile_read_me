@@ -36,7 +36,7 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 ---
 
 ### Language
-**[Python concepts — refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
+**[Python concepts — refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or Agentic AI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 

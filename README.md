@@ -1,9 +1,11 @@
 # Hi, I'm Shivam
 
-I write code to keep experimenting & to keep my fundamentals fresh.
+I'm an Engineering Manager. I write code to experiment with different stacks and keep my fundamentals fresh. Currently, out of curiosity and interest, I'm experimenting with Agentic AI in Python — to understand the capabilities of agents and how they can be integrated into workflows and products with reliable outcomes.
+
+---
 
 ### Agentic AI 
-**[Study Assistant AI](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
+**[Study assistant](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -17,7 +19,7 @@ I write code to keep experimenting & to keep my fundamentals fresh.
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
 
 ### Backend
-**[Backend Infrastructure — Refresher](https://github.com/codeshivamsi-sketch/credit_core)** — A minimal project to refresh hands-on familiarity with backend infrastructure: async APIs, microservices, event driven architecture, observability, and containerisation, built around a trivial lending domain. Each technology is wired in just enough to work; none are used in depth.
+**[Backend in python — refresher](https://github.com/codeshivamsi-sketch/credit_core)** — A minimal project to refresh hands-on familiarity with backend infrastructure in python: async APIs, microservices, event driven architecture, observability, and containerisation, built around a trivial lending domain. Each technology is wired in just enough to work; none are used in depth.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -30,7 +32,7 @@ I write code to keep experimenting & to keep my fundamentals fresh.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Language
-**[Python Concepts — Refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
+**[Python concepts — refresher](https://github.com/codeshivamsi-sketch/python_concept_refresher)** — A structured reference for anyone looking to revisit Python before diving into a backend or GenAI codebase. Covers core syntax, async patterns, and library integrations like Pydantic, SQLAlchemy, and FastAPI.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 

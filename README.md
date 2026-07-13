@@ -20,6 +20,21 @@ I'm an Engineering Manager. I write code to experiment with different stacks and
 
 ---
 
+### Workflows 
+**[AI Dev Workfloww](https://github.com/codeshivamsi-sketch/ai_dev_stack)** — A documented, opinionated workflow for AI-assisted development in three stages: **Understand** the codebase (knowledge graphs + Mermaid mindmaps), **Write** with guardrails (plan-first skills, YAGNI constraints, always-on context, hooks, browser verification), and **Review** independently (blast radius analysis, AI review, auto-generated tests). Includes LLD diagrams for each stage. All tools open source, BYOK.
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-codegraph-000000?style=flat&logo=anthropic&logoColor=white)
+![Superpowers](https://img.shields.io/badge/Superpowers-Plan_first-3fb950?style=flat)
+![Ponytail](https://img.shields.io/badge/Ponytail-YAGNI-8957e5?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright_MCP-Browser_verify-2ead33?style=flat)
+![PR-Agent](https://img.shields.io/badge/PR--Agent-AI_review-d29922?style=flat)
+![CRG](https://img.shields.io/badge/code--review--graph-Blast_radius-f85149?style=flat)
+![Keploy](https://img.shields.io/badge/Keploy-Test_gen-ff914d?style=flat)
+![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-ff3670?style=flat&logo=mermaid&logoColor=white)
+
+
+---
+
 ### Backend
 **[Backend in python — refresher](https://github.com/codeshivamsi-sketch/credit_core)** — A minimal project to refresh hands-on familiarity with backend infrastructure in python: async APIs, microservices, event driven architecture, observability, and containerisation, built around a trivial lending domain. Each technology is wired in just enough to work; none are used in depth.
 
